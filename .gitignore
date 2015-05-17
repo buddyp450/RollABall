@@ -1,0 +1,15 @@
+# Builds
+builds/
+
+# Misc
+Library/
+Temp/
+ProjectSettings/
+*.meta
+
+# CS
+*.csproj
+*.sln
+
+# User
+*.userprefs
